@@ -1,0 +1,7 @@
+.logo{
+    flex: 1;
+    color: gold !important;; 
+    font-family: 'Montserrat' !important;;
+    font-weight: bold !important;;
+    cursor: pointer;
+}
